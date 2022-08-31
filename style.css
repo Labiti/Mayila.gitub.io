@@ -14,7 +14,7 @@
 .logo{
     width: 140px;
     position: absolute;
-    top: 4%;
+    top: 4%; 
     left: 10%;
 }
 .banner-text{
@@ -795,6 +795,7 @@ margin: 10px;
     transform: translate(-50% ,-50%);
 
 }
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 *
 {
